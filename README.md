@@ -1,1 +1,1 @@
-<img align="left" width="100" height="100" src="https://github.com/Metasins/Stats/blob/master/generated/overview.svg">
+<img align="left" width="420" height="420" src="https://github.com/Metasins/Stats/blob/master/generated/overview.svg">
